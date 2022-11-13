@@ -1,0 +1,12 @@
+{
+  "name" : "Replace Chaumont with Langres",
+  "id" : "",
+  "version" : "1.0.0",
+  "supported_game_version" : "1.0.3",
+  "short_description" : "Replaces the hub Chaumont with Langres",
+  "tags" : ["translation"],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : false
+  }
+}
